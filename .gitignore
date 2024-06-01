@@ -12,3 +12,7 @@ logs/
 # DB
 mongo/
 postgres/
+mongo-test/
+postgres-test/
+
+coverage/

@@ -10,4 +10,8 @@ NOC project created using clean arquitecture with TypeScript
     ```
     docker compose up -d
     ```
-5. Execute ```npm run dev```
+5. Execute the command
+    ```
+    npx prisma migrate dev
+    ```
+6. Execute ```npm run dev```
